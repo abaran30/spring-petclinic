@@ -117,8 +117,3 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-reactjs]: https://github.com/spring-petclinic/spring-petclinic-reactjs
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
-
-# README Last Modified
-
-Last modified by Adrian Baran; 2/4/2018.
-Push being made to run Travis build.
